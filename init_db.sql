@@ -1,3 +1,8 @@
+/*创建用户、库，给用户授权*/
+
+create user 'xxpay'@'%' identified by 'xxpay';
+create database xxpaydb;
+grant all privileges on xxpaydb.* to xxpay;
 
 /* 支付中心相关表结构 */
 

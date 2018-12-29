@@ -3,3 +3,7 @@
 /log/
 target/
 *.project
+*.prefs
+*.log
+*.classpath
+
