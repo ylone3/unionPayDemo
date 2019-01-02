@@ -44,16 +44,7 @@ V1.0.0 |2017-08-11 |完成spring-cloud架构，集成微信、支付宝渠道
 ------------
 
 
-- 如何获取支付体验账号？关注官方公众号（搜索：XxPay），回复：测试账号。
 - 支付宝沙箱测试：[XxPay支付宝沙箱测试](http://docs.xxpay.org/docs/deploy/41 "XxPay支付宝沙箱测试")
-
-![体验XxPay支付流程，手机扫一扫可体验](https://git.oschina.net/uploads/images/2017/1009/112525_df5aac80_430718.png "XxPay支付体验")
-
-【运营平台截图】
-
-![输入图片说明](https://git.oschina.net/uploads/images/2017/0814/015506_5b5871eb_430718.png "Xxpay运营平台")
-
-![输入图片说明](https://git.oschina.net/uploads/images/2017/0814/015531_b34e63aa_430718.png "Xxpay运营平台")
 
 ### 项目结构
 ***
