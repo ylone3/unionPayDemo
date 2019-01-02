@@ -1,7 +1,3 @@
->XxPay'官方技术交流群：206119456`满2000` 新群:885394559 （加群暗号：xxpay交流）。
-
->XxPay'官方资源交流群：214196580`满500` 新群:838740906 （加群暗号：xxpay交流）。
-***
 
 ### 项目介绍
 ***
@@ -130,9 +126,3 @@ xxpay4dubbo-service > xxpay4dubbo-web
 |JDK | 1.8 | spring boot 对低版支持没有测过
 |ActiveMQ|  5.11.1 | 高版本也可以，如：5.14.3
 |MySQL | 5.7.17 | 要在5.6以上，否则初始化SQL会报错，除非手动修改建表语句
-
-### 关于我们
-***
-微信扫描下面二维码，关注官方公众号：XxPay，获取更多精彩内容。
-
-![XxPay聚合支付公众号](http://docs.xxpay.org/uploads/201708/attach_14dc8f1fac0a36a1.jpg "XxPay公众号")
